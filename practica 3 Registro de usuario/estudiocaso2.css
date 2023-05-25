@@ -1,0 +1,51 @@
+b{
+    border-width: 1px;
+    border-color:white;
+    border-style: solid;
+    margin: 4px;
+}
+body{
+    background-color:rgb(222, 135, 208);
+    padding:4px;
+    background-image: url('./src/descarga.jpeg');
+    padding: 15px;
+}
+header{ 
+    display:flex;
+    justify-content:center;
+    background-color:pink;
+}
+#sech{
+display:flex;
+}
+.imgh{
+    height:70px;
+    width:70px;
+}
+.comentarios{
+    width: 5cm;
+    height: 15vh;
+}
+.form-register{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Times New Roman';
+    color: black;
+
+}
+label{
+    color:aliceblue;
+}
+fieldset{
+    background-color: rgb(89, 141, 141);
+}
+form{
+    justify-content: center;
+    padding-top: 15vh;
+}
+
+
